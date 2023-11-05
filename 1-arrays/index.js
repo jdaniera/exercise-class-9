@@ -101,3 +101,4 @@ console.table(schedule);
 
 var sentence = `I am taking ${schedule[0][2]}, ${schedule[1][2]} that is worth ${schedule[2][0].toFixed(2)}`
 console.log(sentence);
+
